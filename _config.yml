@@ -1,9 +1,8 @@
 # Site settings
-title: 
-email: 
-description: 
-baseurl: 
-url:
+title: "Thoughts on Life and Technology"
+description: "Just a place to collect my experiences and tell the world my thoughts"
+baseurl: "ohmyitscasper.github.io"
+url: "ohmyitscasper.github.io"
 
 # Build settings
 markdown: kramdown

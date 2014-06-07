@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Thoughts on Life and Technology</title>
+    <description>Just a place to collect my experiences and tell the world my thoughts</description>
+    <link>ohmyitscasper.github.ioohmyitscasper.github.io/</link>
+    <atom:link href="ohmyitscasper.github.ioohmyitscasper.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -23,8 +23,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Sat, 07 Jun 2014 07:07:12 -0400</pubDate>
-        <link>/jekyll/update/2014/06/07/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/jekyll/update/2014/06/07/welcome-to-jekyll/</guid>
+        <link>ohmyitscasper.github.ioohmyitscasper.github.io/jekyll/update/2014/06/07/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">ohmyitscasper.github.ioohmyitscasper.github.io/jekyll/update/2014/06/07/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -32,8 +32,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
         <description>&lt;p&gt;My first week at Venmo as a software engineering intern is complete&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Jun 2014 00:00:00 -0400</pubDate>
-        <link>/2014/06/07/first-week-complete/</link>
-        <guid isPermaLink="true">/2014/06/07/first-week-complete/</guid>
+        <link>ohmyitscasper.github.ioohmyitscasper.github.io/2014/06/07/first-week-complete/</link>
+        <guid isPermaLink="true">ohmyitscasper.github.ioohmyitscasper.github.io/2014/06/07/first-week-complete/</guid>
       </item>
     
   </channel>
